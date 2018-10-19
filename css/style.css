@@ -1,0 +1,31 @@
+/* ===================================
+
+DEFAULT VALUES:
+Font Family:
+Roboto Condensed
+Colors:
+Greenish Blue: #34c6d3 (Buttons, Icons, Links, Lines & Backgrounds)
+Steel Gray: #41464b (Headings)
+Blue Bayoux: #64707b (Paragraphs)
+White: #fff (Text with Black Backgrounds)
+Black: #000 (Texts with White Backgrounds)
+======================================*/
+
+body{
+  font-family: "Roboto Condensed", sans-serif;
+  color: #41464b;
+}
+
+/*CSS just for  Grid example*/
+.col-1{
+  background-color: red;
+}
+.col-2{
+  background-color: green;
+}
+.col-3{
+  background-color:orange;
+}
+.col-4{
+  background-color: blue;
+}
